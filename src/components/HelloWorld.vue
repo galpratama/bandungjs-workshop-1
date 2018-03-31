@@ -16,7 +16,7 @@
       Saya tinggal di {{ address.city }}, {{ address.province }}
     </p>
     <p>
-      Tahun depan, saya berumur {{ age + 1 }} tahun
+      Tahun depan, saya berumur {{ age + 1 }} tahun.
     </p>
     <p>
       Saya {{ work ? 'Bekerja' : 'Tidak Bekerja' }}
