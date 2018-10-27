@@ -1,4 +1,5 @@
 // https://eslint.org/docs/user-guide/configuring
+// gal nebeng nambah pr ahahaha
 
 module.exports = {
   root: true,
